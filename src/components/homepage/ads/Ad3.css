@@ -1,0 +1,31 @@
+.ad3_Watches {
+    border: 1px grey solid;
+    width: 280px;
+    margin-top: 270px;
+    margin-left: 30px;
+    height: 370px;
+}
+
+.ad3_SignIn {
+    font-size: 24px;
+    font-weight: 500;
+    height: 120px;
+    background-color: #fff;
+    padding: 15px;
+    line-height: 27px;
+    
+}
+.ad3_Button input {
+width: 200px;
+height: 23px;
+margin: 18px;
+background-color: rgb(198, 168, 48);
+border: solid 1px #fff;
+border-radius: 5px;
+}
+.ad3_Image {
+margin-top: 15px;
+}
+.ad3_Image img {
+    width: 280px;
+}

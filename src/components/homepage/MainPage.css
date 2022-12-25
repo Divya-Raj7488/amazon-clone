@@ -1,0 +1,48 @@
+.divyaRaj {
+  height: 115em;
+  width: 100%;
+}
+.mainPage {
+  height: 100vh;
+   width: 100vw;
+   background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/61S6U1s59OL._SX3000__Ec9pj4eW6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666270203831) center/cover ; 
+  background-color: rgb(184, 174, 174);
+
+}
+.mainpage_Ads {
+  display: flex;
+  flex-wrap: wrap;
+}
+.page_End {
+  height: 5em;
+  width: 100%;
+  color: black;
+}
+.another_SignIn {
+ margin: 50px 500px;
+ font-size: 1em;
+}
+.signIn_Button2 {
+  width: 15em;
+  height: 1.5em;
+  background-color: #e7bf5b;
+  border: none;
+  border-radius: 5px;
+  
+}
+
+.signIn_Button2 a span {
+  color: black;
+  margin: 5.4em;
+}
+.start_Here {
+  color: green;
+  font-size: 15px;
+  margin: 10px;
+}
+.start_Here:hover {
+  color: chocolate;
+}
+a:hover {
+  text-decoration: none;
+}

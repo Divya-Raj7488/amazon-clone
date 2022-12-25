@@ -1,0 +1,188 @@
+.navBar {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+  
+}
+.navbar_Logo {
+    display: flex;
+    height: 60px;
+    width: 128px;
+}
+.navbar_Image {
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/nav-sprite-global-1x-hm-dsk-reorg._CB405936311__47kWTuW8M.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666300925173) no-repeat -10px -51px;
+	width: 96px;
+	height: 29px;
+   margin: 15px 0px 0px 8px;
+}
+.navbar_Logo:hover {
+    border: 1px #fff solid;   
+}
+.navbar_Logo span {
+     color: #fff;
+     margin-top: 13px;
+ }
+ .navbar_Location{
+        display: flex;
+        margin: 5px;
+    }
+    .navbar_Location:hover {
+        border: 1px solid #fff;
+        text-decoration: none;
+    }
+    .location_Icon {
+        width: 17px;
+        height: 20px;
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/nav-sprite-global-1x-hm-dsk-reorg._CB405936311__47kWTuW8M.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666300925173 ) no-repeat -71px -306px;	
+    margin: 20px 2px 0px 0px;
+}
+.navbar_Deliver {
+    color: rgba(228, 224, 224, 0.927);
+    font-size: 14px;
+}
+.navbar_Text {
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
+.navbar_Searchbox {
+    display: flex;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border: 1px white solid;
+    border-radius: 3px;
+}
+.navbar_Dropdown {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 60px;
+}
+.navbar_Dropdown:hover {
+    background-color: grey;
+}
+
+.navbar_Searchbar {
+    width: 450px;
+}
+
+/* .search_Icon {
+    
+	width: 21px;
+	height: 21px;
+} */
+.submit_Button {
+	width: 40px;   
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/nav-sprite-global-1x-hm-dsk-reorg._CB405936311__47kWTuW8M.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666300925173) no-repeat -10px -290px;
+    background-color: #febd69;
+}
+    
+.navbar_Language {
+    width: 50px;  
+    display: flex;
+    margin: 5px 1px 5px 1px;
+}
+.flagIcon {
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/india__1__yDgyDnDJU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666545614217) center/cover;
+   width: 24px;
+   height: 18px;
+   margin-top: 20px;
+   margin-left: 5px;
+}
+.dropIcon {
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/nav-sprite-global-1x-hm-dsk-reorg._CB405936311__47kWTuW8M.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666300925173)
+    no-repeat -184px -342px;
+	width: 13px;
+	height: 8px;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+ .navbar_Language:hover {
+border: solid #fff 1px;
+border-radius: 2px;
+
+ }
+
+ a {
+    text-decoration: none;
+    color: #fff;
+ }
+ .navbar_SignIn {
+    width: 150px;
+    font: 14px;
+    margin: 5px 1px 5px 1px;
+    padding: 1px;  
+    text-align: center;
+ }
+ .SignIn {
+color: rgba(255, 255, 255, 0.975);
+font-weight: 400;
+ }
+ .Account_Lists {
+
+font-weight: 700;
+margin-top: 0px;
+ }
+
+ .navbar_SignIn:hover {
+border: solid #fff 1px;
+border-radius: 2px;
+ }
+
+ .returns_Orders {
+    width: 120px;
+    font-size: 14px;
+    margin: 5px 1px 5px 1px;
+    padding: 3px;  
+    text-align: center;
+    
+ }
+ .navbar_Returns {
+    color: rgba(255, 255, 255, 0.975);
+    font-weight:400 ;
+ }
+
+ .navbar_Orders {
+    font-weight: 700;
+ }
+
+ .returns_Orders:hover {
+    border: solid #fff 1px;
+border-radius: 2px;
+ }
+ .cart_Icon {
+    display: flex;
+    margin: 5px;
+ }
+ .cart_Icon:hover {
+    border: 1px solid #fff;
+}
+
+.navbar_Cart {
+   
+    margin-top: 15px;
+    background: url(https://ik.imagekit.io/t7f1boru6/amazon-images/nav-sprite-global-1x-hm-dsk-reorg._CB405936311__47kWTuW8M.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666300925173) no-repeat -218px -337px;
+	width: 41px;
+	height: 28px;
+}
+
+.Cart {
+    display: block;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.navbar_Footer
+ {
+    color: #fff;
+    width: 100%;
+    height: 40px;
+background-color: rgb(50, 47, 47);
+display: flex;
+}
+.navbar_Footer div {
+    
+    font-size: 15px;
+    margin: 3px;
+    padding: 2px; }

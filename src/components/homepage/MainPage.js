@@ -6,7 +6,7 @@ import MainpageEnd from './MainpageEnd';
 
 const MainPage = () => {
     return (
-     <div className="divyaRaj"> 
+     <div className="mainPageContainer"> 
         <div className="mainPage">
        
       <div className="mainpage_Ads">
